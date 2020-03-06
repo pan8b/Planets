@@ -1,3 +1,4 @@
 #I am pouneh abbasian, a third year phd student at the department of industrial
 engineering, I am interested to continue my research as an operation research, 
 I love to learn computer programming.
+# there is a problem you should not put bio directory in planet directory
